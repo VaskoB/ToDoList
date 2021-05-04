@@ -1,2 +1,0 @@
-# ToDoList
-A working ToDoList
